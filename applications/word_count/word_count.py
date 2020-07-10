@@ -11,7 +11,7 @@ def word_count(s):
         if word not in word_num:
             word_num[word] = 1
         else:
-            word_num[word] =
+            word_num[word]
 
 
 if __name__ == "__main__":
